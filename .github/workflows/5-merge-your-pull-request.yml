@@ -1,4 +1,8 @@
 name: Step 5, Merge your pull request
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
 
 # This step triggers after a pull requst is merged to `main`
 # This step sets STEP to X
