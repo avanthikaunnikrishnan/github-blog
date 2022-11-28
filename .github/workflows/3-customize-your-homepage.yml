@@ -1,4 +1,6 @@
 name: Step 3, Customize your homepage
+theme: minima
+title: heart break
 
 # This step triggers after the learner updates their homepage 
 # This step sets STEP to 4
