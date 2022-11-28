@@ -1,4 +1,8 @@
 name: Step 4, Create a blog post
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
 
 # This step triggers after the learner creates a blog post 
 # This step sets STEP to 5
